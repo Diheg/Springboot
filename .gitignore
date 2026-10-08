@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Base de datos H2 (se vuelve a crear sola con Flyway) ###
+data/
